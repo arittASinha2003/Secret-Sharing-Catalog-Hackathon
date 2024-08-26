@@ -1,5 +1,9 @@
 # Secret-Sharing-Catalog-Hackathon
 
+## Project Title
+
+This program is designed for secret sharing and reconstruction using Shamir's Secret Sharing scheme.
+
 ## Installation
 
 Go to Google and search for `Maven Repository for JSON`, download the jar file (eg: json-20240303.jar), and place it in the same directory.
